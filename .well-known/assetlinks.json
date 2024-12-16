@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mobentis.converter",
+    "sha256_cert_fingerprints":
+    ["5F:CA:28:EE:7D:EA:6C:19:D8:B0:C7:CC:7E:D9:CB:CD:2A:33:D1:03:B3:2C:36:A9:68:92:24:51:A8:56:38:4A"]
+  }
+}]
